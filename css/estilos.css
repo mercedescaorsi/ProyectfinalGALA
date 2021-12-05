@@ -51,6 +51,8 @@ nav{
 }
 .container-fluid{
     padding: 0%;
+    background-color: black;
+
 }
 
 
@@ -139,13 +141,6 @@ dl{
     text-align: center;
     margin-top: 5%;
 }
-footer{
-    font-size: 25px;
-    text-align: center;
-    background-color: rgb(245, 107, 57);
-    color: black;
-    padding: 10px;
-}
 
 .quien{
     font-size: 60px;
@@ -217,23 +212,23 @@ form {
   button {
     margin-left: .1em;
   }
-
-article{
-    background-color:black;
-}
 .ellas{
     font-family: fuente1;
     font-size: 16px;
     text-align: center;
-    background-color: black;
     color: white;
     line-height: 0.8cm;
     width: 50%;
     height: 660px; 
+    padding: 30px;
     margin-left: 25%;
     margin-top: 3%;
-    padding: 30px;
+
 }
+article{
+    background-color:black;
+}
+
 .mapa{
     margin-left: 27%;
     margin-top: 1%;
@@ -311,4 +306,14 @@ aside{
         display:none;
     }
 }
+footer{
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    background-color: rgb(245, 107, 57);
+}
+
+
 
