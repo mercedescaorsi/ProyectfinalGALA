@@ -12,7 +12,7 @@ text-align: center;
 
 }
 h2{
-    color: black;
+    color:rgb(245, 107, 57);
     font-size: 20px;
     font-family: fuente1;
     margin-top: 5px;
@@ -103,7 +103,7 @@ body {
     background-image: url(../multimedia/vos.jpeg); 
 }
 .galaxia{
-    background-image: url(../multimedia/milky-way-g3ed18726e_1920.jpg);
+    background-image: url(../multimedia/backgrounds.jpg);
 }
 
 
@@ -320,6 +320,23 @@ footer{
     padding: 10px;
     background-color: rgb(245, 107, 57);
 }
+.buscar{
+    position: absolute;
+    padding: 5px;
+}
+.buscar input{
+    width: 200px;
+    height: 30px;
+    padding: 0 20px;
+    font-size: 16px;
+    color: black;
+    outline: none;
+    border: 1px solid silver;
+    border-radius: 30px;
+    margin-left: 1200px;
+}
+
+
 
 
 
