@@ -98,9 +98,15 @@ header{
     width: 130%;
 
 }
+
 body {  
     background-image: url(../multimedia/vos.jpeg); 
 }
+.galaxia{
+    background-image: url(../multimedia/milky-way-g3ed18726e_1920.jpg);
+}
+
+
 .letra{
     font-weight: bold;
     text-decoration-line: underline;
